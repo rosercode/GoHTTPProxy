@@ -1,0 +1,33 @@
+# Compiled Object files, Static and Dynamic libs (Shared Objects)
+*.o
+*.a
+*.so
+
+# Folders
+_obj/
+_test/
+
+# Compiled output
+*.exe
+*.out
+*.test
+
+# Build directories
+/bin/
+/pkg/
+/dist/
+
+# Dependency directories
+/vendor/
+/go.sum
+
+# IDE files
+.idea/
+.vscode/
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
